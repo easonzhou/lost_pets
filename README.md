@@ -17,3 +17,5 @@ POST      | create            | create(attributes) -- wrap (new / save)
 GET       | edit              | find(id)
 PATCH     | update            | update(attributes)
 DELETE    | destroy           | destroy
+
+Pet: name(compulstory), address, species (cat, dog, rabbit, snake, turtle), found_on
